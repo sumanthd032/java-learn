@@ -1,3 +1,4 @@
+package src;
 /*
  * Introducing Classes: Class Fundamentals, Declaring Objects, Assigning Object Reference Variables,
  * Methods, Constructors, this Keyword, Garbage Collection

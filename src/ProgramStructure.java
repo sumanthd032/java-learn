@@ -1,3 +1,4 @@
+package src;
 /*
  * Overview of Java: Structure of a Java Program
  *

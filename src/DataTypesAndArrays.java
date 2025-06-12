@@ -1,3 +1,4 @@
+package src;
 /*
  * Overview of Java: Data Types and Arrays
  *

@@ -1,3 +1,4 @@
+package src;
 /*
  * Introduction to Java: The Java Buzzwords
  *
